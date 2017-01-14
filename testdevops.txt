@@ -1,6 +1,8 @@
 Hi Guys,
 
-Welcome to the DevOps tool.
+Welcome to the DevOps tool. 
+
+I am under training on DevOps.
 
 Thanks,
 Peeru
