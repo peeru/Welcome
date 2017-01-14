@@ -4,5 +4,7 @@ Welcome to the DevOps tool.
 
 I am under training on DevOps.
 
+Change to hotprodfix branch from master branch. hotprodfix  is the master branch.
+
 Thanks,
 Peeru
