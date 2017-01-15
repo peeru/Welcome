@@ -6,12 +6,13 @@ I am under training on DevOps.
 
 Change to hotprodfix branch from master branch. hotprodfix  is the master branch.
 
-
 This is subbranch change.
 
 Hi, this is new update for this today sessions...Jan 15.
 
+adding for new hotfix and Jan_15_2017. asdfkjasdhkf  	qj jkha jfsdh	 jsaafhksjdfhjasd
 
+add some content asjdfashk dfasdf  asdfahsdgfhg.
 
 Thanks,
 Peeru
